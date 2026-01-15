@@ -1,0 +1,11 @@
+agno 
+python-dotenv 
+pydantic 
+pypdf 
+python-docx
+openai
+
+streamlit 
+
+python-telegram-bot 
+
