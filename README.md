@@ -37,6 +37,8 @@ Contract_agent/
 ├── .env                      # Environment variables (not committed)
 ├── requirements.txt
 └── venv/                     # Python virtual environment
+
+
 🧩 Requirements
 Python 3.10+ (recommended)
 
