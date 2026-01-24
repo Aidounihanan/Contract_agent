@@ -11,7 +11,7 @@ st.set_page_config(page_title="Talent Performer | Agno Contract Expert", layout=
 col1, col2 = st.columns([1, 5], vertical_alignment="center")
 
 with col1:
-    logo_path = os.path.join("assets", "talentperformer_logo.png")
+    logo_path = os.path.join("assets", "contract.png")
     if os.path.exists(logo_path):
         st.image(logo_path, width=150)
     else:
